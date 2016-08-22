@@ -11,5 +11,9 @@ color:
     - '#2667FF'
     - '#3B28CC'
 layout_spectrum: 0.4679522872902453
-name: 'Fish_T - Digital Creative Studio '
+name: Fish_T
+navigation:
+  - name: 'Underwater Dogs: photographs of dogs underwater by Seth Casteel'
+    id: 066c3140-7c27-4e80-bada-b4d29422a626
+    type: content
 title: we are
