@@ -1,4 +1,3 @@
-layout_spectrum: 0.4679522872902453
 typography_spectrum: 0.043859556782990694
 color:
   brandStrength: 0.8120334269478917
@@ -6,9 +5,11 @@ color:
   saturation: 0.2476878841407597
   rhythmicContrast: 0.9185529290698469
   brandColors:
-    - '#170F0E'
-    - '#290418'
-    - '#505217'
-    - '#FFD372'
-    - '#FFF1AF'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.4679522872902453
 name: 'Fish_T - Digital Creative Studio '
+title: we are code breakers
